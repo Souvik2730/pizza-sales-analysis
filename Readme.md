@@ -37,8 +37,8 @@ It provides key insights into revenue, order patterns, customer preferences, and
 
 Example:
 
-![Pizza Sales Dashboard](screenshots/dashboard_page1.png)
-![Pizza Sales Dashboard](screenshots/dashboard_page2.png)
+![Pizza Sales Dashboard](screenshots/Screenshot 2025-08-17 221308.png)
+![Pizza Sales Dashboard](screenshots/Screenshot 2025-08-17 221340.png)
 
 ---
 
@@ -97,3 +97,4 @@ Example:
 📧 Email: ghoruisouvik7@gmail.com  
 🔗 LinkedIn: [linkedin.com/in/souvik-ghorui273](https://linkedin.com/in/souvik-ghorui273)  
 💻 GitHub: [github.com/Souvik2730](https://github.com/Souvik2730) 
+
