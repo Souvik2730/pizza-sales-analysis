@@ -1,6 +1,11 @@
 # 🍕 Pizza Sales Analysis (SQL + Power BI)
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](YOUR_COLAB_LINK_HERE)
+## 🚀 Quick Access  
+- 📄 [View Project Report (PDF)](Pizza_Sales_Report.pdf)  
+- 📜 [View SQL Queries](./pizza_sales_queries.sql)  
+- 📊 [View Power BI Dashboard (PBIX file)](./Pizza_Sales_Dashboard.pbix)  
+- 📂 [Download Sample Dataset (CSV)](./pizza_sales_sample.csv)  
+- 🖼️ [View Dashboard Screenshots](./screenshots/)  
 
 ---
 
@@ -96,6 +101,7 @@ It provides key insights into revenue, order patterns, customer preferences, and
 📧 Email: ghoruisouvik7@gmail.com  
 🔗 LinkedIn: [linkedin.com/in/souvik-ghorui273](https://linkedin.com/in/souvik-ghorui273)  
 💻 GitHub: [github.com/Souvik2730](https://github.com/Souvik2730) 
+
 
 
 
