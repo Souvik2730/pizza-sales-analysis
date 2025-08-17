@@ -33,9 +33,8 @@ It provides key insights into revenue, order patterns, customer preferences, and
 ---
 
 ## 🖼️ Dashboard Preview
-(Add your dashboard screenshots here)
+(Here is the Dashboard screenshot)
 
-Example:
 
 ![Pizza Sales Dashboard](https://github.com/Souvik2730/pizza-sales-analysis/blob/main/screenshots/Screenshot%202025-08-17%20221308.png)
 ![Pizza Sales Dashboard](https://github.com/Souvik2730/pizza-sales-analysis/blob/main/screenshots/Screenshot%202025-08-17%20221340.png)
@@ -97,6 +96,7 @@ Example:
 📧 Email: ghoruisouvik7@gmail.com  
 🔗 LinkedIn: [linkedin.com/in/souvik-ghorui273](https://linkedin.com/in/souvik-ghorui273)  
 💻 GitHub: [github.com/Souvik2730](https://github.com/Souvik2730) 
+
 
 
 
