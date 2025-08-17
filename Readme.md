@@ -1,5 +1,13 @@
 # 🍕 Pizza Sales Analysis (SQL + Power BI)
 
+---
+
+## 📌 Project Overview
+This project analyzes **pizza sales data (Jan/2015 – Dec/2015)** using **SQL** for data processing and **Power BI** for visualization.  
+It provides key insights into revenue, order patterns, customer preferences, and best/worst sellers.
+
+---
+
 ## 🚀 Quick Access  
 - 📄 [View Project Report (PDF)](Pizza_Sales_Report.pdf)  
 - 📜 [View SQL Queries](./pizza_sales_queries.sql)  
@@ -9,11 +17,6 @@
 
 ---
 
-## 📌 Project Overview
-This project analyzes **pizza sales data (Jan/2015 – Dec/2015)** using **SQL** for data processing and **Power BI** for visualization.  
-It provides key insights into revenue, order patterns, customer preferences, and best/worst sellers.
-
----
 ## 📂 Files in this Repository
 - `Pizza_Sales_Report.pdf` → Full project report with SQL queries + screenshots  
 - `pizza_sales_queries.sql` → Clean SQL queries used in the project  
@@ -101,6 +104,7 @@ It provides key insights into revenue, order patterns, customer preferences, and
 📧 Email: ghoruisouvik7@gmail.com  
 🔗 LinkedIn: [linkedin.com/in/souvik-ghorui273](https://linkedin.com/in/souvik-ghorui273)  
 💻 GitHub: [github.com/Souvik2730](https://github.com/Souvik2730) 
+
 
 
 
